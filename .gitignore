@@ -1,0 +1,7 @@
+.venv
+./venv-1
+.agents
+.aws
+.codex
+.ipynb_checkpoints
+
